@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1717722153 source:c:\users\user\codeblocksworkspace\super_snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<math.h>
+
